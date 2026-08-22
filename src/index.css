@@ -1,0 +1,12 @@
+@import "tailwindcss";
+
+@layer base {
+  html {
+    scroll-behavior: smooth;
+  }
+  
+  /* Optimize font rendering and tap targets */
+  body {
+    -webkit-tap-highlight-color: transparent;
+  }
+}

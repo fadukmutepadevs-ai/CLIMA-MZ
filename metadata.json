@@ -1,0 +1,6 @@
+{
+  "name": "Clima MOÇAMBIQUE",
+  "description": "Plataforma simples, rápida e responsiva de informações sobre clima, tempo e agricultura em Moçambique.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
